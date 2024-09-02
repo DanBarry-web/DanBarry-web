@@ -1,3 +1,1 @@
 - 🌱 I’m currently learning Python.
-- 🤔 I’m looking to collaborate on projects
-- 📫 Reach me at: [email](mailto:Dan+GITHUB@SmallMediaLarge.org) or [instagram](https://www.instagram.com/danbarry_and_wifey/)
